@@ -1,0 +1,1 @@
+{"name": "Invajt Bot", "channel_id": "102340056764645376", "token": "aPg_dAKDXyruEnU9kdDsZZT71qWzFxS2NMO6116_3T_OjvoB11ccM7T8Swb7UmEqO6iw", "avatar": null, "guild_id": "102340056764645376", "id": "269204259860512768"}
